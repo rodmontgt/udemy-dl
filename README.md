@@ -2,6 +2,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/r0oth3x49/udemy-dl.svg?style=flat-square)](https://github.com/r0oth3x49/udemy-dl/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/r0oth3x49/udemy-dl.svg?style=flat-square)](https://github.com/r0oth3x49/udemy-dl/network)
 [![GitHub issues](https://img.shields.io/github/issues/r0oth3x49/udemy-dl.svg?style=flat-square)](https://github.com/r0oth3x49/udemy-dl/issues)
+[![Run on Repl.it](https://repl.it/badge/github/rodmontgt/udemy-dl)](https://repl.it/github/rodmontgt/udemy-dl)
 
 # udemy-dl
 **A cross-platform python based utility to download courses from udemy for personal offline use.**
